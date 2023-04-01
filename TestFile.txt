@@ -1,1 +1,3 @@
 Welcome to the GitExample
+
+testing line must be removed after commit
